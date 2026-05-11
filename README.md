@@ -4,8 +4,4 @@
 💻 Beginner Programmer  
 🚀 Future Software Engineer  
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=DhanushkaDisanayake&show_icons=true&theme=tokyonight)
-
-## 🐍 Contribution Snake
-![snake gif](https://github.com/DhanushkaDisanayake/DhanushkaDisanayake/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg)
