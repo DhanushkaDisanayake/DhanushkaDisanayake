@@ -4,4 +4,4 @@
 💻 Beginner Programmer  
 🚀 Future Software Engineer  
 
-![snake gif](https://raw.githubusercontent.com/[YOUR_USERNAME]/[YOUR_USERNAME]/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/DhanushkaDisanayake/DhanushkaDisanayake/output/github-contribution-grid-snake.svg)
