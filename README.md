@@ -32,11 +32,11 @@ I am a passionate Software Engineering student currently pursuing my **Diploma i
 
 ### 📊 GitHub Stats & Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[DhanushkaDisanayake]&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DhanushkaDisanayake&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[DhanushkaDisanayake]&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushkaDisanayake&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
