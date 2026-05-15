@@ -36,6 +36,7 @@ I am a passionate Software Engineering student currently pursuing my **Diploma i
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhanushkaDisanayake&theme=github_dark" alt="GitHub Stats" />
 </p>
+
 ---
 
 ### 🤝 Connect with Me
