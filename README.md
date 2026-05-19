@@ -33,14 +33,16 @@ I am a passionate Software Engineering student currently pursuing my **Diploma i
 ### 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushkaDisanayake&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhanushkaDisanayake&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhanushkaDisanayake&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
-- 📧 Email: [dhanushkadisanayake1219@gmail.com]
-- 🔗 LinkedIn: [www.linkedin.com/in/dhanushka-disanayake]
+- 📧 Email: [dhanushkadisanayake1219@gmail.com](mailto:dhanushkadisanayake1219@gmail.com)
+- 🔗 LinkedIn: [Dhanushka Disanayake](https://www.linkedin.com/in/dhanushka-disanayake)
 
 "Coding is not just about writing lines of code; it's about solving problems." 💻✨
