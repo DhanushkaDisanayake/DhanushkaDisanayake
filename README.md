@@ -35,7 +35,7 @@ I am a passionate Software Engineering student currently pursuing my **Diploma i
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushkaDisanayake&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br><br>
   
-  <img src="https://github-readme-stats-git-master-anuraghazras-projects.vercel.app/api/top-langs/?username=DhanushkaDisanayake&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-six-republic.vercel.app/api/top-langs/?username=DhanushkaDisanayake&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Top Languages" />
   <br><br>
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhanushkaDisanayake&theme=github_dark" alt="GitHub Stats" />
