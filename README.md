@@ -36,7 +36,6 @@ I am a passionate Software Engineering student currently pursuing my **Diploma i
   <br><br>
   <img src="https://metrics.lecoq.io/DhanushkaDisanayake?base=repositories&plugin_languages=1&plugin_languages=compact" alt="My Languages" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhanushkaDisanayake&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 ---
