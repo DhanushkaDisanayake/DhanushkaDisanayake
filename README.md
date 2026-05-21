@@ -34,8 +34,7 @@ I am a passionate Software Engineering student currently pursuing my **Diploma i
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushkaDisanayake&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhanushkaDisanayake&theme=github_dark" alt="GitHub Stats" />
-  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=DhanushkaDisanayake&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 ---
