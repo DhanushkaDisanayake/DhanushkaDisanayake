@@ -34,12 +34,13 @@ I am a passionate Software Engineering student currently pursuing my **Diploma i
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushkaDisanayake&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanushkaDisanayake&theme=dark&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DhanushkaDisanayake&layout=compact&theme=dark&count_private=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DhanushkaDisanayake&layout=compact&theme=dark&count_private=true" alt="Top Languages" width="44%" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DhanushkaDisanayake&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DhanushkaDisanayake&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="44%" />
 </p>
 
 ---
