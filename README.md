@@ -37,9 +37,9 @@ I am a passionate Software Engineering student currently pursuing my **Diploma i
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DhanushkaDisanayake&layout=compact&theme=dark&count_private=true" alt="Top Languages" width="44%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DhanushkaDisanayake&layout=compact&theme=dark&count_private=true" alt="Top Languages" width="44%" height="130" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DhanushkaDisanayake&show_icons=true&theme=dark&count_private=true&hide_title=true" alt="GitHub Stats" width="44%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DhanushkaDisanayake&show_icons=true&theme=dark&count_private=true&hide_title=true" alt="GitHub Stats" width="44%" height="130" />
 </p>
 
 <p align="center">
